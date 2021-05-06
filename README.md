@@ -30,6 +30,13 @@ Localhost is a software program that is used to run our program.
 •	Readings in the meter:
 	The readings either previous readings or present readings are not real. It was just assumed for the calculation.
 5.	Details handled:
+
+
+
+
+
+
+
 •	Login Page:
 	The login page consists of username and password, which are already created. 
 	The user or owner only can log in to this page. 
